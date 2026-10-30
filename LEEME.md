@@ -10,4 +10,4 @@ Al final de `index.html` hay una sección **solo para Alessandro** (Approve / Le
 (sección + script), hacer commit y push. Las respuestas llegan al formulario de la web de parrillas con cuenta `acc_partners`
 (pieza `APROBACION` o `NOTA`); se leen adaptando `13 ADIDAS CHAMPIONS CUP/Plan Email SMS/_pipeline/traer_notas_acc.py` (filtrar `acc_partners`).
 
-Respaldo de la versión del 29-10: `index.backup_30oct.html`.
+Respaldo de la versión del 29-10: `../_respaldos_propuesta_socios/index.backup_30oct.html` (fuera del repo).
